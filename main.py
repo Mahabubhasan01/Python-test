@@ -120,3 +120,4 @@ if gpa> 4.5 and sum <=250:
     print("You are not eligible for admission")
 else:"Congratulation you are eligible for admission"
 
+
