@@ -36,3 +36,45 @@ if age < age1:
             print('You are voter')
         else:
             print('You are not voter')
+# Ternary operator
+number = 33
+Pass = number if number >= 33 else 'she is not pass'
+print('she is got', Pass)
+
+# Logical operator
+
+voter = 1
+voter1 = 2
+voter2 = 3
+if voter<voter1 and voter2 > voter1:
+    print('You have got 3 vote')
+
+mango = 1
+banana = 3
+
+if mango<banana or mango > banana:
+    print('You have got 4 fruit')
+
+character = 'a'
+if character == 'a' or character == 'e' or character == 'i' or character == 'o' or character == 'u':
+    print('Its vowel')
+if character != 'b':
+    print('Its again also said that its vowel')
+
+# letter grade find
+marks = int(40)
+if marks >= 80 and marks <= 100:
+    print('A+')
+elif marks == 70 and marks < 80:
+    print('A')
+elif marks >= 60 and marks  < 70:
+    print('A-')
+elif marks >= 50 and marks < 60:
+    print('B')
+elif marks >= 40 and marks <50:
+    print('C')
+elif marks >= 33 and marks <40:
+    print('D')
+else:
+    print('You are fail')
+
