@@ -23,3 +23,29 @@ Comments can be used to make the code more readable.
 
 Comments can be used to prevent execution when testing code
 '''
+
+# Arithmetic Operator
+"""
+Plus (+)
+Minus (-)
+Division (/)
+Division last (%)
+How much get division into the first number (//)
+Power (**)
+"""
+
+# Relational Operator or Comparison Operator
+"""
+greater than >
+grater than or equal >=
+less than <
+less than equal <=
+equal to equal ==
+not equal !=
+"""
+# Boolean Operator
+"""
+True 
+False
+"""
+
