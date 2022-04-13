@@ -1,9 +1,12 @@
 # Python is a programming language
+# OOP Means Object Oriented  Programming
 # Its created Guido van rossum 1991
 # Used for  1 .Web development(server side) 2. Software development 3 . Mathematics 4 . System Scripting
 # If you want to check version just type cmd python --version.
+# You need to install python
+# and need to install compiler as a pycharm
 
-#Rules for Python variables:
+# Rules for Python variables:
 '''
 A variable name must start with a letter or the underscore character
 A variable name cannot start with a number
