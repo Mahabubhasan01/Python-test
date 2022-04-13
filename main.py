@@ -65,3 +65,58 @@ firstFun()
 
 print('She is  '+ ex)
 
+# If you want to new line in your code use backslash n like \n
+print("My name is \n Diptoh AL Mahbub")
+
+# If you want to create tab in your code use backslash t like \t
+
+print("Hello \t World in python test")
+
+# If you want to create double qoute in your code use \" text here\"
+print("\"Time and tide waite for none\"")
+
+# if you add variable like integer or float do not need plus sign
+age = 22
+print('I am',age, 'old')
+
+#  Basic Numerical Operations  plus (+) ,Minus (-), Multiple (*) , Division (/), Floor value (//), Modulus (%), Squer or Power (**)
+_a = 55
+_b = 4
+plus = _a + _b
+minus = _a - _b
+multiple = _a * _b
+division = _a / _b
+floor_value = _a // _b
+modulus = _a % _b
+squre_or_power = _a ** _b
+print(plus)
+print(minus)
+print(multiple)
+print(division)
+print(floor_value)
+print(modulus)
+print(squre_or_power)
+
+
+
+
+
+# Get user input
+name_ = input("Enter your name : ")
+age = input("Enter your age : ")
+gpa =float(input("Enter your gpa : "))
+
+print("Name :" + name_)
+print("Age :" + age)
+print("Gpa :" , gpa)
+
+# Type Casting or convert integer number
+physics = int(input("Please enter physics value : "))
+chemisty = int(input("Please enter chemisty value : "))
+math = int(input("Pleas enter math value : "))
+sum = physics + chemisty + math
+print(sum)
+if gpa> 4.5 and sum <=250:
+    print("You are not eligible for admission")
+else:"Congratulation you are eligible for admission"
+
