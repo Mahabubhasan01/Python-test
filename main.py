@@ -121,3 +121,7 @@ if gpa> 4.5 and sum <=250:
 else:"Congratulation you are eligible for admission"
 
 
+
+
+
+
